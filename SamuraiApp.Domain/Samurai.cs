@@ -2,7 +2,7 @@
 
 namespace SamuraiApp.Domain
 {
-    class Samurai
+    public class Samurai
     {
         public Samurai()
         {
